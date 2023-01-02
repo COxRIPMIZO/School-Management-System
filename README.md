@@ -23,7 +23,7 @@ so for backend services we want 2  things  Mysql Databse and Tomcat  server
 Mysql server - username - root is neccessary password - root neccessary
 I uploaded the database file also so u can just download and import them in mysql database thats it 
 
-Tomcat server -   so this is used for running of our web application u cant also used glassfish server if u want. 
+Tomcat server -   so this is used for running of our web application u can also used glassfish server if u want. 
 
 
 
